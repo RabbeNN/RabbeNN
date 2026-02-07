@@ -1,6 +1,6 @@
 # 👋 Hej! Jag heter Rasmus
 
-Jag är en junior utvecklare med fokus på **JavaScript och React**, med intresse för att bygga
+Jag är en junior utvecklare med fokus på **JavaScript, React, Wordpress och Laravel**, med intresse för att bygga
 strukturerade, lättförståeliga och verklighetsnära applikationer.
 
 Jag trivs särskilt bra med att arbeta i **befintliga kodbaser**, förbättra funktionalitet
@@ -12,7 +12,7 @@ och bygga vidare på existerande lösningar – något jag gjort både under utb
 
 - JavaScript (ES6+)
 - React
-- HTML & CSS
+- HTML & CSS & Tailwind
 - Node.js / Express
 - REST API
 - SQL / Databaser
@@ -22,7 +22,7 @@ och bygga vidare på existerande lösningar – något jag gjort både under utb
 
 ## 🛠 Vad jag fokuserar på just nu
 
-- Fördjupa mina kunskaper i React
+- Fördjupa mina kunskaper i React och Laravel
 - Bygga fullstack-projekt med frontend + backend
 - Struktur, komponenttänk och kod som är lätt att underhålla
 - Förstå hur riktiga projekt fungerar i arbetslivet
